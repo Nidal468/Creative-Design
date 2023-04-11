@@ -38,7 +38,7 @@ const Home: NextPage = () => {
 				<div className={styles.selection}>
 					<li><a href="#banner">Banner Designs</a></li>
 					<li><a>Web Designs</a></li>
-					<li><a>Banner Designs</a></li>
+					<li><a>Logo Designs</a></li>
 					<li><a>Banner Designs</a></li>
 				</div>
 				<div className={styles.hero}>
